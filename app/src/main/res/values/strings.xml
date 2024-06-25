@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyCityApp</string>
+    <string name="museum_text">Museums</string>
+    <string name="museum_content_desc">Museums</string>
+    <string name="park_text">Parks</string>
+    <string name="park_content_desc">Parks</string>
+    <string name="beach_text">Beaches</string>
+    <string name="beach_content_desc">Beaches</string>
+    <string name="cafe_text">Cafes</string>
+    <string name="cafe_content_desc">Cafes</string>
+    <string name="mall_text">Malls</string>
+    <string name="mall_content_desc">Malls</string>
+    <string name="park_gorky">Gorky\'s Park</string>
+    <string name="park_pobedy">Park of Victory</string>
+    <string name="park_shevchenko">Park Shevchenko</string>
+    <string name="park_greek">Greek Park</string>
+    <string name="park_istanbul">Istanbul Park</string>
+    <string name="beach_ibiza">Ibiza</string>
+    <string name="beach_caleton">Caleton</string>
+    <string name="beach_itaka">Itaka</string>
+    <string name="beach_dolphin">Dolphin</string>
+    <string name="beach_otrada">Otrada</string>
+    <string name="mall_riviera">Riviera</string>
+    <string name="mall_gagarin_plaza">Gagarin Plaza</string>
+    <string name="mall_victory_gardens">Victory\'s gardens</string>
+    <string name="mall_city_center">City Center</string>
+    <string name="mall_fontan_sky">Fontan Sky</string>
+    <string name="cafe_lou_lou">Lou Lou</string>
+    <string name="cafe_yug">Yug</string>
+    <string name="cafe_central">Central</string>
+    <string name="cafe_beerteka">Beerteka</string>
+    <string name="cafe_compote">Compote</string>
+    <string name="museum_east_west_art">East West Art</string>
+    <string name="museum_modern_art">Modern Art</string>
+    <string name="museum_archeology">Archeology</string>
+    <string name="museum_interesting_science">Interesting Science</string>
+    <string name="museum_chocolate">Chocolate</string>
+    <string name="back_button">Back</string>
+    <string name="example_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
+        consequat leo ac ante porta commodo. Integer a rhoncus ipsum, sit amet mollis ante. Nam
+        tincidunt ullamcorper neque nec maximus. Nunc porta feugiat commodo.</string>
+</resources>
